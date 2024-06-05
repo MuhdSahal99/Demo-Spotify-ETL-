@@ -1,6 +1,6 @@
 # A simple-Spotify-ETL
 
-*Task 1: Lets call it exchange_Token,
+*Task 1 : Lets call it exchange_Token,
 In this Task we will be the function exchanges an authorization code for Spotify access and refresh tokens by sending a POST request to Spotify’s token endpoint.
 It constructs the payload with credentials and prints the authorization code. If the request is successful, it retrieves and stores the access and refresh tokens in Airflow variables. 
 If the request fails, it prints the error response.
