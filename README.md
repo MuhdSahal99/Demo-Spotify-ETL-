@@ -1,4 +1,4 @@
-*# A simple-Spotify-ETL*
+*# Spotify-ETL pipeline*
 
 *Task 1 : Lets call it exchange_Token,
 In this Task we will be the function exchanges an authorization code for Spotify access and refresh tokens by sending a POST request to Spotify’s token endpoint.
